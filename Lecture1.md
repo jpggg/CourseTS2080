@@ -1,18 +1,25 @@
 ## What is object oriented programming?
 
-Answer here
+OOP is a programming philosophy where complex data and its functions are organized in classes, which are templates that describe the exact properties of a data structure and allows you to edit them. The advantages of OOP are further described with the below subjects encapsulation, abstraction, inheritance and polymorphism.
+
+OOP is an alternative to procedural/functional programming. 
 
 ## What are the basic concepts of OOP?
 
-Answer here
 
 ## What are the main principles of OOP?
 
-Answer here
+Encapsulation, abstraction, inheritance, polymorphism
 
 ## Encapsulation
 
-Encapsulation is...
+Encapsulation is... 
+
+Bundling of related data. Useful for permission control:
+Public, private, protected.
+
+Security, data hiding, simplicity, aesthetics
+
 
 ## Abstraction
 
