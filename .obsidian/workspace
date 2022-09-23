@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "2b2d4b89a2f98ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b3d62482f10cf5a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Group project 1 - Use case (Foodora).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "249b4a58a9e2c4fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b49f418cece55f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca921ca9e67cdff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "748e66a81432bda4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "614fe7689b18b139",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d115fb4595ca7fac",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d4e63bd1a97704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2438ff67c79e509f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Group project 1 - Use case (Foodora).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b31b8114f14c0364",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Group project 1 - Use case (Foodora).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1133d382f7deb010",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "225621a3a44b1675",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Group project 1 - Use case (Foodora).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b3d62482f10cf5a",
+  "lastOpenFiles": [
+    "Lecture4.md",
+    "Group project 1 - Use case (Foodora).md",
+    "Lecture5.md",
+    "Lecture6.md",
+    "Lecture3.md",
+    "Lecture2.md",
+    "Pasted image 20220916124106.png",
+    "Pasted image 20220916130154.png",
+    "Lecture1.md"
+  ]
+}
