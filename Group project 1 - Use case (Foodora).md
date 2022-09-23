@@ -1,16 +1,12 @@
-### Problem statement
+### **Problem statement**
 The software should offer courier delivery on food items to customers from local restaurants. 
 
-
-
-### Actors
+### **Actors**
 - Customer
 - Restaurant
 - Courier
 
-
-
-### Functional requirements
+### **Functional requirements**
 - **Customers** should be able to:
 	1) Browse local restaurants by:
 		- Food category
