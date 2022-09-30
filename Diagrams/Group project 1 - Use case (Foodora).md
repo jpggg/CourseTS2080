@@ -19,10 +19,11 @@ The software should offer courier delivery on food items to customers from local
 	1) Browse orders
 	2) Accept orders
 	3) Receive comission payment
+	4) Path, time
 - **Restaurants** should be able to:
 	1) Offer their products
 	2) Receive orders
 	3) Receive payments
+	4) Cancel,
 
-
-![[Pasted image 20220923125556.png]]
+![[Pasted image 20220930103646.png]]
