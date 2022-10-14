@@ -7,8 +7,12 @@
         "id": "5b3d62482f10cf5a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lecture Notes/Lecture7.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture Notes/Lecture7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture Notes/Lecture7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture Notes/Lecture7.md"
+              }
             }
           }
         ]
@@ -122,14 +130,15 @@
   },
   "active": "5b3d62482f10cf5a",
   "lastOpenFiles": [
+    "Lecture Notes/Lecture8.md",
+    "Lecture Notes/Lecture11.md",
+    "Lecture Notes/Lecture7.md",
+    "Lecture Notes/Lecture6.md",
+    "Lecture Notes/Lecture5.md",
     "Lecture6.md",
     "Lecture5.md",
     "Group project 1 - Use case (Foodora).md",
     "Lecture4.md",
-    "Lecture3.md",
-    "Lecture2.md",
-    "Pasted image 20220916124106.png",
-    "Pasted image 20220916130154.png",
-    "Lecture1.md"
+    "Lecture3.md"
   ]
 }
